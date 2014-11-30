@@ -1,4 +1,4 @@
 AskAgain
 ========
 
-Quick Python number guessing gam
+Quick Python number guessing game
